@@ -54,9 +54,6 @@
     // Allow importing TypeScript modules.
     "allowImportingTsExtensions": true,
 
-    // Enfore "type" modifier for type imports.
-    "verbatimModuleSyntax": true,
-
     // Ensure the public class field initialization is transpiled correctly to match the future JS standard.
     "useDefineForClassFields": true,
 
